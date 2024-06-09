@@ -11,5 +11,5 @@ I analyzed the total vehicles stolen by day of the week, stolen vehicle trend, t
 I created the slicers from the pivot charts to report connections between the slicers and the charts.
 I then created a dashboard for my analysis by cutting each chart from the excel sheet and pasting on the dashboard and also doing the same with the slicers.
 From the power pivot, I was able to calculate the total vehicle stolen, the average age of the vehicle stolen, the region count, the total vehicle type and was also able to identify the most stolen vehicle.
-I then gave an insight of my analysis.
+I then gave an insight on my analysis.
 <img width="379" alt="Kofs" src="https://github.com/Kofoworola14/my-first-project/assets/168651782/a9e4c4f9-48ba-4e60-bf91-073146982e6a">
